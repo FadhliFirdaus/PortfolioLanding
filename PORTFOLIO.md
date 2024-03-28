@@ -1,4 +1,4 @@
-# PortfolioLanding
+# Portfolio Landing
 User's portfolio landing page for reference
 
 1. Grab App with Different Architectures Implemented
