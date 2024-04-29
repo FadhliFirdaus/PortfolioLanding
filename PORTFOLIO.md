@@ -47,6 +47,37 @@ Tools : Rapid API, CoreData,
 
 ![photo_2024-03-28 23 03 21](https://github.com/FadhliFirdaus/PortfolioLanding/assets/44931086/f486df73-4be5-47f7-941c-62ad387e44bc)
 
+4. Recipe API App
+
+Desc : Retrieve data from public API for food recipes
+
+Link to repo : https://github.com/FadhliFirdaus/Recipe-API-App.git
+
+Tools : UIPickerView, UIHostingController, CoreData CRUD, NSPredicate, ViewModel
+
+![WhatsApp Image 2024-04-29 at 16 35 47 (1)](https://github.com/FadhliFirdaus/PortfolioLanding/assets/44931086/9a37b3cb-88e7-4544-8689-b12238d38fde)
+
+![WhatsApp Image 2024-04-29 at 16 35 47](https://github.com/FadhliFirdaus/PortfolioLanding/assets/44931086/051ad8e0-bca0-4c59-b2bd-add73610ea31)
+
+![WhatsApp Image 2024-04-29 at 16 35 48 (1)](https://github.com/FadhliFirdaus/PortfolioLanding/assets/44931086/d636bc3d-11f6-4154-bf3c-c0950381fe94)
+
+![WhatsApp Image 2024-04-29 at 16 35 48](https://github.com/FadhliFirdaus/PortfolioLanding/assets/44931086/a9b7fb6b-7430-461b-9bb8-c585b64522b0)
+
+![WhatsApp Image 2024-04-29 at 16 35 49](https://github.com/FadhliFirdaus/PortfolioLanding/assets/44931086/b05eb141-18ba-4782-9a25-f49c36507f86)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
